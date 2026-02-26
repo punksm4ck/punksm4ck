@@ -1,3 +1,5 @@
+![Vibe Coding Header](assets/header.png)
+
 # 1337 Identity: punksm4ck
 
 Vibe coding surgeon specializing in macOS/Linux system automation and UI architectural enhancements.
